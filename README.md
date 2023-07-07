@@ -1,7 +1,7 @@
 # StackOverflow_API-ETL
 
 # Architecture
-![arch_diagram](./architecture.png)
+![arch_diagram](./architcture.png)
 Architecture of fetching data from Stackoverflow API and loading into Amazon Redshift.
 
 # Business Queries
