@@ -12,9 +12,15 @@ Architecture of fetching data from Stackoverflow API and loading into Amazon Red
 # Screenshots of DAG and Redshift tables.
 
 ![dag_diagram](./dag2.png)
+
 ![tags_schema](./tags_schema.png)
+
 ![tags_table](./tags_table.png)
+
 ![questions_schema](./questions_schema.png)
+
 ![questions_table](./questions_tabe.png)
+
 ![answers_schema](./answers_schema.png)
+
 ![answers_table](./answers_table.png)
