@@ -38,3 +38,6 @@ Architecture of fetching data from Stackoverflow API and loading into Amazon Red
 * Answers Table
   
 ![answers_table](./Images/answers_table.png)
+
+
+* Note: Make sure to create the .env file and store the environment variables related to Redshift connection like Hostname, database, user credentials,port number.
