@@ -1,7 +1,7 @@
 # StackOverflow_API-ETL
 
 # Architecture
-![arch_diagram](./architcture.png)
+![arch_diagram](./Images/architecture.png)
 Architecture of fetching data from Stackoverflow API and loading into Amazon Redshift.
 
 # Business Queries
@@ -11,16 +11,16 @@ Architecture of fetching data from Stackoverflow API and loading into Amazon Red
 
 # Screenshots of DAG and Redshift tables.
 
-![dag_diagram](./dag2.png)
+![dag_diagram](./Images/dag2.png)
 
-![tags_schema](./tags_schema.png)
+![tags_schema](./Images/tags_schema.png)
 
-![tags_table](./tags_table.png)
+![tags_table](./Images/tags_table.png)
 
-![questions_schema](./questions_schema.png)
+![questions_schema](./Images/questions_schema.png)
 
-![questions_table](./questions_tabe.png)
+![questions_table](./Images/questions_table.png)
 
-![answers_schema](./answers_schema.png)
+![answers_schema](./Images/answers_schema.png)
 
-![answers_table](./answers_table.png)
+![answers_table](./Images/answers_table.png)
